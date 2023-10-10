@@ -5747,7 +5747,7 @@ figcaption {
 }
 
 .section.section-hero---v1 {
-  background-image: url("https://assets.website-files.com/642ee44a50f54346d0b2f9b0/642f4b356f1e9c126af01436_find-the-best-design-for-your-project-image-stock-x-webflow-template.jpg");
+  background-image: url("images/section.1.bg.jpg");
   background-position: 0 0;
   background-size: cover;
   padding-top: 122px;
@@ -5770,7 +5770,7 @@ figcaption {
 }
 
 .section.section-hero---v2 {
-  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("https://assets.website-files.com/642ee44a50f54346d0b2f9b0/64357e19c0f7bda254c5d969_about-us-image-stock-x-webflow-template.jpg");
+  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("images/section.2.bg.jpg");
   background-position: 0 0, 50%;
   background-size: auto, cover;
   padding-top: 150px;
@@ -5818,7 +5818,7 @@ figcaption {
 }
 
 .section.pd-132px.cta-v1 {
-  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("https://assets.website-files.com/642ee44a50f54346d0b2f9b0/6434633744870876d1fee717_browse-our-more-than-150000-design-reources-image-stock-x-webflow-template.jpg");
+  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("images/section.2.bg.jpg");
   background-position: 0 0, 50%;
   background-size: auto, cover;
 }
@@ -6445,7 +6445,7 @@ figcaption {
 }
 
 .footer-top {
-  padding-top: 80px;
+  padding-top: 32px;
   padding-bottom: 64px;
 }
 
@@ -6604,7 +6604,7 @@ figcaption {
 
 .cta-section {
   background-color: #08080c;
-  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("https://assets.website-files.com/642ee44a50f54346d0b2f9b0/6434633744870876d1fee717_browse-our-more-than-150000-design-reources-image-stock-x-webflow-template.jpg");
+  background-image: linear-gradient(rgba(7, 7, 7, .6), rgba(7, 7, 7, .6)), url("images/section.2.bg.jpg");
   background-position: 0 0, 50%;
   background-size: auto, cover;
   padding-top: 160px;
