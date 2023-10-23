@@ -3443,6 +3443,8 @@
    
    .header-logo {
      display: block;
+     height: 100px;
+     width: 100px;
    }
    
    .header-navigation {
@@ -3498,7 +3500,7 @@
    }
    
    .footer {
-     padding-top: 140px;
+     padding-top: 80px;
      border-top: 1px solid #363636;
      background-color: #070707;
    }
@@ -8075,10 +8077,6 @@
    
      .button-primary._2-buttons {
        margin-right: 20px;
-     }
-   
-     .header-logo {
-       width: 193px;
      }
    
      .header-navigation {
