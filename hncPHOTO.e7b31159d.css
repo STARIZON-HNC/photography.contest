@@ -481,6 +481,23 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
      min-height: 30px;
    }
    
+   .endtime {
+    display: flex;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+  }
+
+  .endtime div{
+    flex-basis: 100px;
+    text-align: center;
+    padding: 0 0.7cm;
+  }
+
+  .endtime div p{
+    font-size: 60px;
+  }
+
+
    .w-commerce-commercecartapplepayicon {
      width: 100%;
      height: 50%;
@@ -3575,8 +3592,8 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    
    .section.utility-page.changelog {
      border-bottom-style: none;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/6155e2af8026fbac93cf8d48/615eff620059de0d00bad677_contact-v3-photographer-x-template.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/6155e2af8026fbac93cf8d48/615eff620059de0d00bad677_contact-v3-photographer-x-template.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("images/section.2.bg.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/section.2.bg.jpg");
      background-position: 0px 0px, 50% 0%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -6240,8 +6257,8 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
      z-index: -1;
      height: 56%;
      min-height: 56%;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.43)), to(rgba(0, 0, 0, 0.43))), url("https://assets.website-files.com/6155e2af8026fbac93cf8d48/615eff620059de0d00bad677_contact-v3-photographer-x-template.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.43), rgba(0, 0, 0, 0.43)), url("https://assets.website-files.com/6155e2af8026fbac93cf8d48/615eff620059de0d00bad677_contact-v3-photographer-x-template.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.43)), to(rgba(0, 0, 0, 0.43))), url("images/section.1.bg.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.43), rgba(0, 0, 0, 0.43)), url("images/section.1.bg.jpg");
      background-position: 0px 0px, 50% 0%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -7432,7 +7449,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
      -webkit-box-align: stretch;
      -webkit-align-items: stretch;
      -ms-flex-align: stretch;
-     align-items: stretch;
+     align-items: center;
    }
    
    .contact-form-main-wrapper {
